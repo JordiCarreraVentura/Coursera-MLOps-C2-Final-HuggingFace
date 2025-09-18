@@ -136,3 +136,4 @@ dmypy.json
 etc/jupyter/nbconfig/*
 share/jupyter/nbextensions/*
 share/*
+.DS_Store
