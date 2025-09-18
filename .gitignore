@@ -107,10 +107,13 @@ celerybeat.pid
 # Environments
 .env
 .venv
+bin/*
 env/
+lib/*
 venv/
 ENV/
 env.bak/
+pyvenv.cfg
 venv.bak/
 
 # Spyder project settings
@@ -130,3 +133,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+etc/jupyter/nbconfig/*
+share/jupyter/nbextensions/*
+share/*
